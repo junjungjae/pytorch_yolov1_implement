@@ -1,4 +1,4 @@
-# pytorch-ssd-implementation
+# pytorch-YOLOv1-implementation
 
 ### 공식 논문
 REDMON, Joseph, et al. You only look once: Unified, real-time object detection. In: _Proceedings of the IEEE conference on computer vision and pattern recognition_. 2016. p. 779-788.
